@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="WoodenTexture" version="3.0" targetId="a249ca9c309f4cc9aafbbac41d9cb195" sideLength="17.000000" topDiameter="6.500000" bottomDiameter="6.500000" sideImage="WoodenTexture.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
